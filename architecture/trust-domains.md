@@ -15,7 +15,7 @@ AWS account or outside AWS entirely is in a different trust domain.
 
 ---
 
-## The Two Trust Domains in SEC307
+## The Two Trust Domains
 
 ### Internal Trust Domain
 Contains the primary Strands agent running on AgentCore Runtime, the
