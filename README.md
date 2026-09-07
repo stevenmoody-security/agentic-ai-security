@@ -64,12 +64,12 @@ any compliant agent without custom integration work for each pair.
 
 ## Contents
 
-- **architecture/overview.md** — full component breakdown and data flow
-- **architecture/trust-domains.md** — internal and external trust domain design
-- **authentication/decision-matrix.md** — authentication mechanism selection by tool type
-- **threat-models/agent-identity-compromise.md** — agent credential theft and blast radius
-- **threat-models/cross-domain-trust-abuse.md** — cross-trust-domain attack scenarios
-- **logging/audit-strategy.md** — APPLICATION_LOGS vs USAGE_LOGS separation and routing
+- **architecture/overview.md** â€” full component breakdown and data flow
+- **architecture/trust-domains.md** â€” internal and external trust domain design
+- **authentication/decision-matrix.md** â€” authentication mechanism selection by tool type
+- **threat-models/agent-identity-compromise.md** â€” agent credential theft and blast radius
+- **threat-models/cross-domain-trust-abuse.md** â€” cross-trust-domain attack scenarios
+- **logging/audit-strategy.md** â€” APPLICATION_LOGS vs USAGE_LOGS separation and routing
 
 ---
 
@@ -90,4 +90,4 @@ enough to recognize where the same principles apply in a new context.
 
 ---
 
-Active TS/SCI | AWS SAA | SSCP | Relocating to Raleigh, NC February 2027
+Active TS/SCI | AWS SAA | SSCP | Relocating to Raleigh, NC December 2026
