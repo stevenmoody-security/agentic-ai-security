@@ -1,4 +1,4 @@
-Agentic AI Security Architecture
+# Agentic AI Security Architecture
 
 Security analysis of the architecture demonstrated in the AWS Summit SEC307
 builders workshop: "Design Authentication, Authorization, and Logging Logic
